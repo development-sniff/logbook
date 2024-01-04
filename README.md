@@ -1,4 +1,6 @@
 # logbook
+![DALL·E 2024-01-04 19 50 34 - A simple, logo-style illustration representing a 'Logbook' for sailing  The design should be minimalistic and elegant, with clean lines and a limited ](https://github.com/castberry10/logbook/assets/25453543/8addb26a-a297-4eee-816b-b152744bbc82)
+  
 Development journal preparation web/app  
 
 todo  
@@ -11,3 +13,7 @@ JWT_SECRET= (ex. 636fa337a92b9357aa1343e6225349818ef148f6ace5acc691ab0c83d79695f
 
 ## start   
 mongodb 설치가 필요합니다.   
+
+
+
+
