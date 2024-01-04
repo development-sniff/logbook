@@ -1,10 +1,9 @@
 # logbook
-![DALL·E 2024-01-04 19 50 34 - A simple, logo-style illustration representing a 'Logbook' for sailing  The design should be minimalistic and elegant, with clean lines and a limited ](https://github.com/castberry10/logbook/assets/25453543/8addb26a-a297-4eee-816b-b152744bbc82)
+<img src="https://github.com/castberry10/logbook/assets/25453543/8addb26a-a297-4eee-816b-b152744bbc82" width="300" height="300">
   
-Development journal preparation web/app  
-
-todo  
-[logbook](http://castberry.kr/castberry/6596736a887e99a4cf0b3f79) 
+### Development journal preparation web/app  
+### [TODO: logbook](http://castberry.kr/castberry/6596736a887e99a4cf0b3f79) 
+  
 
 ## backend .env  
 PORT= (ex. 4000)   
