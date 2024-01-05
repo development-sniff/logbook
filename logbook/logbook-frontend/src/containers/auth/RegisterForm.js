@@ -61,7 +61,13 @@ const RegisterForm = ({ history }) => {
         setError('이미 존재하는 계정명입니다.');
         return;
       }
-      // 기타 이유
+      if (authError.response.status === 400) {
+        //console.log('hi');
+        //console.log(authError.response.data);
+        //setError('회원가입 실패');
+        setError(authError.response.data.details[0].message);
+        return;
+      }
       setError('회원가입 실패');
       return;
     }
