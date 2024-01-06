@@ -6,6 +6,8 @@ import Tags from '../common/Tags';
 import {Helmet} from 'react-helmet-async';
 
 const PostViewerBlock = styled(Responsive)`
+position : relative;
+min-height:100%;
 margin-top: 4rem;
 `;
 
