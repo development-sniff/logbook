@@ -7,7 +7,7 @@ import {Helmet} from 'react-helmet-async';
 
 const PostViewerBlock = styled(Responsive)`
 position : relative;
-min-height:100%;
+min-height: calc(100vh - 258px - 3rem);
 margin-top: 4rem;
 `;
 
