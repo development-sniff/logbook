@@ -8,6 +8,7 @@ import {Link} from 'react-router-dom';
 
 const PostListBlock = styled(Responsive)`
 	margin-top: 3rem;
+	min-height: calc(100vh - 258px - 3rem);
 `;
 
 const WritePostButtonWrapper = styled.div`
