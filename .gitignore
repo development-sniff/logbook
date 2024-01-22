@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,git,react,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,git,react,dotenv
-
+.vscode 
+.vscode/
 ### dotenv ###
 .env
 
