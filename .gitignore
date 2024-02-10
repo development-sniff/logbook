@@ -6,10 +6,7 @@
 .env
 
 goorm.manifest
-<<<<<<< HEAD
-=======
 
->>>>>>> ec9d4d1f1733df49af9927734b76fc078856cb50
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
